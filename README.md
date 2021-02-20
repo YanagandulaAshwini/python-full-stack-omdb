@@ -1,0 +1,1 @@
+Create a API in Django and access it from react UI
